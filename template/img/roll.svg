@@ -1,0 +1,22 @@
+<svg width="35" height="20" viewBox="0 0 35 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="2" width="1.1" height="7" rx="0.55" fill="#94DD3E"/>
+<rect x="3" width="1.1" height="5" rx="0.55" fill="#94DD3E"/>
+<rect x="3" y="9" width="1.1" height="2" rx="0.55" fill="#94DD3E"/>
+<rect x="6" width="1.1" height="5" rx="0.55" fill="#94DD3E"/>
+<rect x="6" y="9" width="1.1" height="2" rx="0.55" fill="#94DD3E"/>
+<rect x="9" y="2" width="1.1" height="7" rx="0.55" fill="#94DD3E"/>
+<rect x="24" y="2" width="1.1" height="7" rx="0.55" fill="#94DD3E"/>
+<rect x="27" width="1.1" height="5" rx="0.55" fill="#94DD3E"/>
+<rect x="27" y="9" width="1.1" height="2" rx="0.55" fill="#94DD3E"/>
+<rect x="30" width="1.1" height="5" rx="0.55" fill="#94DD3E"/>
+<rect x="30" y="9" width="1.1" height="2" rx="0.55" fill="#94DD3E"/>
+<rect x="33" y="2" width="1.1" height="7" rx="0.55" fill="#94DD3E"/>
+<rect x="12" y="2" width="1.1" height="7" rx="0.55" fill="white"/>
+<rect x="15" width="1.1" height="5" rx="0.55" fill="white"/>
+<rect x="15" y="9" width="1.1" height="2" rx="0.55" fill="white"/>
+<rect x="18" width="1.1" height="5" rx="0.55" fill="white"/>
+<rect x="18" y="9" width="1.1" height="2" rx="0.55" fill="white"/>
+<rect x="21" y="2" width="1.1" height="7" rx="0.55" fill="white"/>
+<rect x="34" y="18" width="1.1" height="34" rx="0.55" transform="rotate(90 34 18)" fill="#94DD3E"/>
+<rect x="34" y="15" width="1.1" height="34" rx="0.55" transform="rotate(90 34 15)" fill="#94DD3E"/>
+</svg>
